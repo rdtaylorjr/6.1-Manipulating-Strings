@@ -1,2 +1,2 @@
 # 6.5-Manipulating-Strings
-School Project for Python Data Structures at the University of Michigan (Coursera)
+School Project for Python Data Structures at the University of Michigan (Coursera)d

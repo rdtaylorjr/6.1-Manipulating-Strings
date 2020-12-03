@@ -2,4 +2,4 @@
 
 Programming Language: Python
 
-University of Michigan, Data Structures
+University of Michigan Python Data Structures

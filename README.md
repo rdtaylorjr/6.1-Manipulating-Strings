@@ -1,6 +1,6 @@
 # 6.5-Manipulating-Strings
 
-Basic string manipulation s
+Basic string manipulation
 
 Programming Language: Python
 
